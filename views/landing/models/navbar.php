@@ -1,9 +1,12 @@
 <div class="row">
     
     <!--<nav class="navbar navbar-expand-lg bg-body-tertiary" >-->
-    <nav class="navbar navbar-expand-lg rounded-bottom-5" style="background-color: #8FBC8F;">
+    <nav class="navbar navbar-expand-lg rounded-bottom-4" style="background-color: #8FBC8F;">
+        <link rel="stylesheet" href="campeche.css">
         <div class="container-fluid">
             <a class="navbar-brand Titulo" href="#">
+                <h1 class="logo" ><img src="assets/img/logo campeche.jpg "></h1>
+        
                 <p><strong>Campeche</strong></p>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"

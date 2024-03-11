@@ -5,8 +5,10 @@
 </style>
 
 <div class="row">
+    
     <div class="col col-sm-2"></div>
         <div class="col col-sm-8">
+            
                 <div id="carouselExampleCaptions" class="carousel mx-auto slide">
                 <div class="carousel-indicators">
                     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -15,7 +17,9 @@
                     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
                     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
                 </div>
+                
                 <div class="carousel-inner justify-content-center">
+                
                     <div class="carousel-item active p-3 ">
                     <img src="assets/img/galeria/plaza6.jpg" class="d-block w-100 imagen-carrusel" alt="..." style="object-fit: contain;">
                     <div class="carousel-caption d-none d-md-block">

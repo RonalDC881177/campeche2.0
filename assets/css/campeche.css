@@ -81,7 +81,8 @@
 }
 
 .logo{
-    height: 70px;
+    border: 2px solid black;
+    size: 10px; 
 }
 /*GALERIA*/
 
