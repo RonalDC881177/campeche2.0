@@ -8,11 +8,11 @@
         public function main()
         {
 
-        	require_once("Vistas/Dashboard/Modulos/Header.php");
-        	require_once("Vistas/Dashboard/Modulos/NavLat.php");
-            require_once("Vistas/Dashboard/Modulos/NavSup.php");
-        	require_once("Vistas/Dashboard/Paginas/Inicio.php");
-        	require_once("Vistas/Dashboard/Modulos/Footer.php");
+        	require_once("Vistas/dashboard/modules/Header.php");
+        	require_once("Vistas/dashboard/modules/NavLat.php");
+            require_once("Vistas/dashboard/modules/NavSup.php");
+        	require_once("Vistas/dashboard/pages/Inicio.php");
+        	require_once("Vistas/dashboard/modules/Footer.php");
         }
     }
 ?>

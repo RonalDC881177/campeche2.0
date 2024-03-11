@@ -7,16 +7,16 @@
 <div class="slider">
     <ul>            
             <li>
-                <img src="Vistas/Landing/Dependencias/imagenes/slider/slider2.jpeg" alt="viota">
+                <img src="assets/img/slider/slider2.jpeg" alt="viota">
             </li>
             <li>
-                <img src="Vistas/Landing/Dependencias/imagenes/slider/slider1.JPG" alt="aguacate">
+                <img src="assets/img/slider/slider1.JPG" alt="aguacate">
             </li>
             <li>
-                <img src="Vistas/Landing/Dependencias/imagenes/slider/slider5.jpg" alt="guanabana">
+                <img src="assets/img/slider/slider5.jpg" alt="guanabana">
             </li> 
             <li>
-                <img src="Vistas/Landing/Dependencias/imagenes/slider/familia.jpg" alt="familia">
+                <img src="assets/img/slider/familia.jpg" alt="familia">
             </li>           
     </ul>
 </div>

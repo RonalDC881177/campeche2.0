@@ -3,7 +3,6 @@
 class ConexionCampeche
 {
 
- 
 
     public static function connection(){            
         $hostname = "campeche.mysql.database.azure.com";

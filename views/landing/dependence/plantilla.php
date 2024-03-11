@@ -11,25 +11,28 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     
-    <script src="Vistas/Dependencias/js/app.js"></script>
+    <script src="assets/js/app.js"></script>
     
-    <link rel="stylesheet" href="Vistas/Dependencias/css/reset.css">
-    <link rel="stylesheet" href="Vistas/Dependencias/css/stylecompras.css">
-    <link rel="stylesheet" href="Vistas/Dependencias/css/campeche.css">
-    <link rel="stylesheet" href="Vistas/Dependencias/css/fuentes.css">
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/stylecompras.css">
+    <link rel="stylesheet" href="assets/css/campeche.css">
+    <link rel="stylesheet" href="assets/css/fuentes.css">
     
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
 </head>
-<body background="Vistas/Dependencias/imagenes/background.jpeg">
+<body background="assets/img/background.jpeg">
     <div class="container-fluid">
-        <?php require_once("Vistas/Modulos/navbar.php") ?>
+        <?php require_once("views/models/navbar.php") ?>
     </div>
     <div class="text-center">
-        <?php $enlace=new MvcCtlr; $enlace->enlaces_paginas_ctlr(); ?>
+    <?php
+    $enlace = new MvcCtlr;
+    $enlace->enlaces_paginas_ctlr();
+?>
     </div>
     
     <div class="container-fluid">
-        <?php require_once("Vistas/Modulos/footer.php") ?>
+        <?php require_once("views/models/footer.php") ?>
     </div>
 </body>
 </html>

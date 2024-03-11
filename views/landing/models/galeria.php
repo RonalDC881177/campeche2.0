@@ -17,35 +17,35 @@
                 </div>
                 <div class="carousel-inner justify-content-center">
                     <div class="carousel-item active p-3 ">
-                    <img src="Vistas/Landing/Dependencias/imagenes/galeria/plaza6.jpg" class="d-block w-100 imagen-carrusel" alt="..." style="object-fit: contain;">
+                    <img src="assets/img/galeria/plaza6.jpg" class="d-block w-100 imagen-carrusel" alt="..." style="object-fit: contain;">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>First slide label</h5>
                         <p>Some representative placeholder content for the first slide.</p>
                     </div>
                     </div>
                     <div class="carousel-item p-3">
-                    <img src="Vistas/Landing/Dependencias/imagenes/galeria/plaza2.png" class="d-block w-100 imagen-carrusel" alt="..." style="object-fit: contain;">
+                    <img src="assets/img/galeria/plaza2.png" class="d-block w-100 imagen-carrusel" alt="..." style="object-fit: contain;">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Second slide label</h5>
                         <p>Some representative placeholder content for the second slide.</p>
                     </div>
                     </div>
                     <div class="carousel-item p-3">
-                    <img src="Vistas/Landing/Dependencias/imagenes/galeria/plaza3.jpg" class="d-block w-100 imagen-carrusel" alt="..." style="object-fit: contain;">
+                    <img src="assets/img/galeria/plaza3.jpg" class="d-block w-100 imagen-carrusel" alt="..." style="object-fit: contain;">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Third slide label</h5>
                         <p>Some representative placeholder content for the third slide.</p>
                     </div>
                     </div>
                     <div class="carousel-item p-3">
-                    <img src="Vistas/Landing/Dependencias/imagenes/galeria/plaza7.jpg" class="d-block w-100 imagen-carrusel" alt="..." style="object-fit: contain;">
+                    <img src="assets/img/galeria/plaza7.jpg" class="d-block w-100 imagen-carrusel" alt="..." style="object-fit: contain;">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Third slide label</h5>
                         <p>Some representative placeholder content for the third slide.</p>
                     </div>
                     </div>
                     <div class="carousel-item p-3">
-                    <img src="Vistas/Landing/Dependencias/imagenes/galeria/plaza5.jpg" class="d-block w-100 imagen-carrusel" alt="..." style="object-fit: contain;">
+                    <img src="assets/img/galeria/plaza5.jpg" class="d-block w-100 imagen-carrusel" alt="..." style="object-fit: contain;">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Third slide label</h5>
                         <p>Some representative placeholder content for the third slide.</p>

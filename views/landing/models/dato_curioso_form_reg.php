@@ -5,7 +5,7 @@
             <h2>Beneficios del Plátano</h2>
             <div class="preview">
                 <p>Los plátanos verdes son una extraordinaria opción para controlar los niveles de azúcar ya que contienen un menor porcentaje que los plátanos maduros.</p>
-                <img src="Vistas/Landing/Dependencias/imagenes/info1.jpg" alt="platano">
+                <img src="assets/img/info1.jpg" alt="platano">
             </div>
             <a href="#">ver más...</a>
         </section>
@@ -13,7 +13,7 @@
             <h2>Beneficios del Aguacate</h2>
             <div class="preview">
                 <p>Reduce los niveles de colesterol malo en sangre y aumenta el colesterol bueno.</p>
-                <img src="Vistas/Landing/Dependencias/imagenes/info2.jpeg" alt="aguacate">
+                <img src="assets/img/info2.jpeg" alt="aguacate">
             </div>
             <a href="#">ver más...</a>
         </section>
