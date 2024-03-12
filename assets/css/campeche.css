@@ -4,6 +4,11 @@
     letter-spacing: 7px;
     align-items: start;
     color: #fff;
+    display:flex;
+}
+
+.carousel-inner{
+   background-color: rgb(10, 25, 165);
 }
 
 .Texbanner{
@@ -81,8 +86,8 @@
 }
 
 .logo{
-    border: 2px solid black;
-    size: 10px; 
+    display:flex;
+    
 }
 /*GALERIA*/
 
