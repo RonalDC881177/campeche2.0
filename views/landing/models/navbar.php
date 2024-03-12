@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="campeche.css">
         <div class="container-fluid">
             <a class="navbar-brand Titulo" href="#">
-                <h1 class="logo" ><img src="assets/img/logo campeche.jpg "></h1>
+                <h1><img src="assets/img/logo campeche.jpg "></h1>
         
                 <p><strong>Campeche</strong></p>
             </a>
