@@ -2,7 +2,7 @@
     
     <!--<nav class="navbar navbar-expand-lg bg-body-tertiary" >-->
     <nav class="navbar navbar-expand-lg rounded-bottom-4" style="background-color: #8FBC8F;">
-        <link rel="stylesheet" href="campeche.css">
+        <link rel="stylesheet" href="assets/css/campeche.css">
         <div class="container-fluid">
             <a class="navbar-brand Titulo" href="#">
                 <h1 class="logo" ><img src="assets/img/logo campeche.jpg "></h1>
